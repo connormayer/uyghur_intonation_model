@@ -1,0 +1,138 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.7951636876449975 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "TextTier" 
+        name = "Tones" 
+        xmin = 0 
+        xmax = 3.7951636876449975 
+        points: size = 16 
+        points [1]:
+            number = 0.06465486150316704 
+            mark = "L" 
+        points [2]:
+            number = 0.43013805866138366 
+            mark = "HL%" 
+        points [3]:
+            number = 0.7560705255514436 
+            mark = "L" 
+        points [4]:
+            number = 0.9656160500561675 
+            mark = "Ha" 
+        points [5]:
+            number = 1.126552058398862 
+            mark = "L" 
+        points [6]:
+            number = 1.50694625993614 
+            mark = "Ha" 
+        points [7]:
+            number = 1.7000694699473735 
+            mark = "L" 
+        points [8]:
+            number = 2.141911965579135 
+            mark = "H-" 
+        points [9]:
+            number = 2.3496657218033405 
+            mark = "L" 
+        points [10]:
+            number = 2.651054973790569 
+            mark = "Ha" 
+        points [11]:
+            number = 2.8586283865576028 
+            mark = "L" 
+        points [12]:
+            number = 2.9817053182037414 
+            mark = "Ha" 
+        points [13]:
+            number = 3.176590133930469 
+            mark = "L" 
+        points [14]:
+            number = 3.3386906458002636 
+            mark = "Ha" 
+        points [15]:
+            number = 3.4879222171725806 
+            mark = "L" 
+        points [16]:
+            number = 3.727863175065325 
+            mark = "L%" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Orthography" 
+        xmin = 0 
+        xmax = 3.7951636876449975 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5471824283651615 
+            text = "he'e" 
+        intervals [2]:
+            xmin = 0.5471824283651615 
+            xmax = 1.0446209996062175 
+            text = "ziya" 
+        intervals [3]:
+            xmin = 1.0446209996062175 
+            xmax = 1.5683945540306234 
+            text = "bazarda" 
+        intervals [4]:
+            xmin = 1.5683945540306234 
+            xmax = 2.2618824445255075 
+            text = "alimgha" 
+        intervals [5]:
+            xmin = 2.2618824445255075 
+            xmax = 2.759321015766563 
+            text = "asta" 
+        intervals [6]:
+            xmin = 2.759321015766563 
+            xmax = 3.043153612298225 
+            text = "yawa" 
+        intervals [7]:
+            xmin = 3.043153612298225 
+            xmax = 3.394286721409558 
+            text = "alma" 
+        intervals [8]:
+            xmin = 3.394286721409558 
+            xmax = 3.7951636876449975 
+            text = "berdi" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Gloss" 
+        xmin = 0 
+        xmax = 3.7951636876449975 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5471824283651615 
+            text = "yes" 
+        intervals [2]:
+            xmin = 0.5471824283651615 
+            xmax = 1.0446209996062175 
+            text = "Ziya" 
+        intervals [3]:
+            xmin = 1.0446209996062175 
+            xmax = 1.5683945540306234 
+            text = "in bazaar" 
+        intervals [4]:
+            xmin = 1.5683945540306234 
+            xmax = 2.2618824445255075 
+            text = "to Alim" 
+        intervals [5]:
+            xmin = 2.2618824445255075 
+            xmax = 2.759321015766563 
+            text = "slowly" 
+        intervals [6]:
+            xmin = 2.759321015766563 
+            xmax = 3.043153612298225 
+            text = "wild" 
+        intervals [7]:
+            xmin = 3.043153612298225 
+            xmax = 3.394286721409558 
+            text = "apple" 
+        intervals [8]:
+            xmin = 3.394286721409558 
+            xmax = 3.7951636876449975 
+            text = "gave" 

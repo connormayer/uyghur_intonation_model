@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.9218850832145362 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "TextTier" 
+        name = "Tones" 
+        xmin = 0 
+        xmax = 1.9218850832145362 
+        points: size = 6 
+        points [1]:
+            number = 0.05338569675595936 
+            mark = "L" 
+        points [2]:
+            number = 0.3903829075279527 
+            mark = "H-" 
+        points [3]:
+            number = 0.5822377552446817 
+            mark = "L" 
+        points [4]:
+            number = 0.9442595113710309 
+            mark = "Ha" 
+        points [5]:
+            number = 1.0610407230246919 
+            mark = "L" 
+        points [6]:
+            number = 1.786752538301014 
+            mark = "L%" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Orthography" 
+        xmin = 0 
+        xmax = 1.9218850832145362 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.47046145266189177 
+            text = "mahire" 
+        intervals [2]:
+            xmin = 0.47046145266189177 
+            xmax = 0.9759572688198818 
+            text = "alimgha" 
+        intervals [3]:
+            xmin = 0.9759572688198818 
+            xmax = 1.2962714493556378 
+            text = "alma" 
+        intervals [4]:
+            xmin = 1.2962714493556378 
+            xmax = 1.9218850832145362 
+            text = "ewetti" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Gloss" 
+        xmin = 0 
+        xmax = 1.9218850832145362 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.47046145266189177 
+            text = "Mahire" 
+        intervals [2]:
+            xmin = 0.47046145266189177 
+            xmax = 0.9759572688198818 
+            text = "to Alim" 
+        intervals [3]:
+            xmin = 0.9759572688198818 
+            xmax = 1.2962714493556378 
+            text = "apple" 
+        intervals [4]:
+            xmin = 1.2962714493556378 
+            xmax = 1.9218850832145362 
+            text = "sent" 

@@ -1,0 +1,129 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.9773192736745555 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "TextTier" 
+        name = "Tones" 
+        xmin = 0 
+        xmax = 3.9773192736745555 
+        points: size = 13 
+        points [1]:
+            number = 0.3707768290392135 
+            mark = "HL%" 
+        points [2]:
+            number = 0.7843711460845508 
+            mark = "L" 
+        points [3]:
+            number = 0.9866422573827335 
+            mark = "Ha" 
+        points [4]:
+            number = 1.2509055357116923 
+            mark = "L" 
+        points [5]:
+            number = 1.5850897438843248 
+            mark = "Ha" 
+        points [6]:
+            number = 1.7670712433842732 
+            mark = "L" 
+        points [7]:
+            number = 2.1575042786750718 
+            mark = "H-" 
+        points [8]:
+            number = 2.3725733235386466 
+            mark = "L" 
+        points [9]:
+            number = 2.782858886047621 
+            mark = "H-" 
+        points [10]:
+            number = 3.0641030216384504 
+            mark = "L" 
+        points [11]:
+            number = 3.3883609662019945 
+            mark = "Ha" 
+        points [12]:
+            number = 3.586886238383757 
+            mark = "L" 
+        points [13]:
+            number = 3.9210704465563895 
+            mark = "L%" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Orthography" 
+        xmin = 0 
+        xmax = 3.9773192736745555 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.45018693791191833 
+            text = "yaq" 
+        intervals [2]:
+            xmin = 0.45018693791191833 
+            xmax = 0.6784910009209453 
+            text = "#" 
+        intervals [3]:
+            xmin = 0.6784910009209453 
+            xmax = 1.1284816178662718 
+            text = "ziya" 
+        intervals [4]:
+            xmin = 1.1284816178662718 
+            xmax = 1.64133857100249 
+            text = "almini" 
+        intervals [5]:
+            xmin = 1.64133857100249 
+            xmax = 2.2203706148659625 
+            text = "bazarda" 
+        intervals [6]:
+            xmin = 2.2203706148659625 
+            xmax = 2.915209067502129 
+            text = "alimgha" 
+        intervals [7]:
+            xmin = 2.915209067502129 
+            xmax = 3.4644623205383365 
+            text = "asta" 
+        intervals [8]:
+            xmin = 3.4644623205383365 
+            xmax = 3.9773192736745555 
+            text = "berdi" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Gloss" 
+        xmin = 0 
+        xmax = 3.9773192736745555 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.45018693791191833 
+            text = "No" 
+        intervals [2]:
+            xmin = 0.45018693791191833 
+            xmax = 0.6784910009209453 
+            text = "#" 
+        intervals [3]:
+            xmin = 0.6784910009209453 
+            xmax = 1.1284816178662718 
+            text = "Ziya" 
+        intervals [4]:
+            xmin = 1.1284816178662718 
+            xmax = 1.64133857100249 
+            text = "the apple" 
+        intervals [5]:
+            xmin = 1.64133857100249 
+            xmax = 2.2203706148659625 
+            text = "in the bazaar" 
+        intervals [6]:
+            xmin = 2.2203706148659625 
+            xmax = 2.915209067502129 
+            text = "to Alim" 
+        intervals [7]:
+            xmin = 2.915209067502129 
+            xmax = 3.4644623205383365 
+            text = "slowly" 
+        intervals [8]:
+            xmin = 3.4644623205383365 
+            xmax = 3.9773192736745555 
+            text = "gave" 

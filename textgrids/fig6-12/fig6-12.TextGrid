@@ -1,0 +1,71 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.7834937599422727 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "TextTier" 
+        name = "Tones" 
+        xmin = 0 
+        xmax = 1.7834937599422727 
+        points: size = 7 
+        points [1]:
+            number = 0.1063009525793408 
+            mark = "L" 
+        points [2]:
+            number = 0.431109418793993 
+            mark = "Ha" 
+        points [3]:
+            number = 0.6378057154760448 
+            mark = "L" 
+        points [4]:
+            number = 0.8527105351981038 
+            mark = "L" 
+        points [5]:
+            number = 1.0630095257934076 
+            mark = "Ha" 
+        points [6]:
+            number = 1.2638002139988291 
+            mark = "L" 
+        points [7]:
+            number = 1.659475981933042 
+            mark = "L%" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Orthography" 
+        xmin = 0 
+        xmax = 1.7834937599422727 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5137879374668137 
+            text = "adil" 
+        intervals [2]:
+            xmin = 0.5137879374668137 
+            xmax = 1.1515936529428585 
+            text = "bughday-ni" 
+        intervals [3]:
+            xmin = 1.1515936529428585 
+            xmax = 1.7834937599422727 
+            text = "baghlidi" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Gloss" 
+        xmin = 0 
+        xmax = 1.7834937599422727 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5137879374668137 
+            text = "Adil" 
+        intervals [2]:
+            xmin = 0.5137879374668137 
+            xmax = 1.1515936529428585 
+            text = "wheat-acc" 
+        intervals [3]:
+            xmin = 1.1515936529428585 
+            xmax = 1.7834937599422727 
+            text = "bound" 

@@ -1,0 +1,131 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.3695543451005 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "TextTier" 
+        name = "Tones" 
+        xmin = 0 
+        xmax = 3.3695543451005 
+        points: size = 11 
+        points [1]:
+            number = 0.11011615506864203 
+            mark = "L" 
+        points [2]:
+            number = 0.3961718759043283 
+            mark = "HL%" 
+        points [3]:
+            number = 0.7204742717348402 
+            mark = "L" 
+        points [4]:
+            number = 1.0597649016799766 
+            mark = "Ha" 
+        points [5]:
+            number = 1.1955468264595623 
+            mark = "L" 
+        points [6]:
+            number = 1.3861925389547292 
+            mark = "H%" 
+        points [7]:
+            number = 1.8342205258576953 
+            mark = "L" 
+        points [8]:
+            number = 2.44457864252389 
+            mark = "H%" 
+        points [9]:
+            number = 2.909035206338702 
+            mark = "H" 
+        points [10]:
+            number = 3.0486444074718797 
+            mark = "L" 
+        points [11]:
+            number = 3.2588563527940995 
+            mark = "L%" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Orthography" 
+        xmin = 0 
+        xmax = 3.3695543451005 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5977734132297812 
+            text = "meryem" 
+        intervals [2]:
+            xmin = 0.5977734132297812 
+            xmax = 1.1200386058410636 
+            text = "ramni" 
+        intervals [3]:
+            xmin = 1.1200386058410636 
+            xmax = 1.4409485434696805 
+            text = "urup" 
+        intervals [4]:
+            xmin = 1.4409485434696805 
+            xmax = 1.7555661293800924 
+            text = "#" 
+        intervals [5]:
+            xmin = 1.7555661293800924 
+            xmax = 2.1834460462182506 
+            text = "onglap" 
+        intervals [6]:
+            xmin = 2.1834460462182506 
+            xmax = 2.510648335565076 
+            text = "bolup" 
+        intervals [7]:
+            xmin = 2.510648335565076 
+            xmax = 2.784365635307136 
+            text = "#" 
+        intervals [8]:
+            xmin = 2.784365635307136 
+            xmax = 3.0140364730217364 
+            text = "dem" 
+        intervals [9]:
+            xmin = 3.0140364730217364 
+            xmax = 3.3695543451005 
+            text = "aldi" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Gloss" 
+        xmin = 0 
+        xmax = 3.3695543451005 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5977734132297812 
+            text = "Meryem" 
+        intervals [2]:
+            xmin = 0.5977734132297812 
+            xmax = 1.1200386058410636 
+            text = "frame" 
+        intervals [3]:
+            xmin = 1.1200386058410636 
+            xmax = 1.4409485434696805 
+            text = "pound" 
+        intervals [4]:
+            xmin = 1.4409485434696805 
+            xmax = 1.7555661293800924 
+            text = "#" 
+        intervals [5]:
+            xmin = 1.7555661293800924 
+            xmax = 2.1834460462182506 
+            text = "fix" 
+        intervals [6]:
+            xmin = 2.1834460462182506 
+            xmax = 2.510648335565076 
+            text = "completely" 
+        intervals [7]:
+            xmin = 2.510648335565076 
+            xmax = 2.784365635307136 
+            text = "" 
+        intervals [8]:
+            xmin = 2.784365635307136 
+            xmax = 3.0140364730217364 
+            text = "break" 
+        intervals [9]:
+            xmin = 3.0140364730217364 
+            xmax = 3.3695543451005 
+            text = "took" 

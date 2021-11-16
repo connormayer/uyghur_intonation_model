@@ -1,0 +1,79 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.4628138750975648 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "TextTier" 
+        name = "Tones" 
+        xmin = 0 
+        xmax = 1.4628138750975648 
+        points: size = 7 
+        points [1]:
+            number = 0.09955808718655934 
+            mark = "L" 
+        points [2]:
+            number = 0.30261715610172 
+            mark = "H" 
+        points [3]:
+            number = 0.5658053667830204 
+            mark = "Ha" 
+        points [4]:
+            number = 0.7580214757075656 
+            mark = "L" 
+        points [5]:
+            number = 0.9226373228378172 
+            mark = "Ha" 
+        points [6]:
+            number = 1.202592657663517 
+            mark = "H" 
+        points [7]:
+            number = 1.4263421005836767 
+            mark = "L%" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Words" 
+        xmin = 0 
+        xmax = 1.4628138750975648 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3785178760360276 
+            text = "qurban" 
+        intervals [2]:
+            xmin = 0.3785178760360276 
+            xmax = 0.6614205594275377 
+            text = "bilen" 
+        intervals [3]:
+            xmin = 0.6614205594275377 
+            xmax = 0.9758663991553836 
+            text = "ziba" 
+        intervals [4]:
+            xmin = 0.9758663991553836 
+            xmax = 1.4628138750975648 
+            text = "mangidu" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Glosses" 
+        xmin = 0 
+        xmax = 1.4628138750975648 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3785178760360276 
+            text = "Qurban" 
+        intervals [2]:
+            xmin = 0.3785178760360276 
+            xmax = 0.6614205594275377 
+            text = "with" 
+        intervals [3]:
+            xmin = 0.6614205594275377 
+            xmax = 0.9758663991553836 
+            text = "Ziba" 
+        intervals [4]:
+            xmin = 0.9758663991553836 
+            xmax = 1.4628138750975648 
+            text = "will walk" 
