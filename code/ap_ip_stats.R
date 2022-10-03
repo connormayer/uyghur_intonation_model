@@ -6,6 +6,11 @@ library(lmerTest)
 # Load data
 full_data <- read_csv("../data/ap_data_final.csv")
 
+# The AP data file includes data from relative clauses too, but
+# we omit these for simplicity.
+full_data <- full_data %>% 
+  filter(Type != 'relative')
+
 # Fit statistical models
 dur_lme <- lmer(Duration ~ HasCoda + Role + Num.Syls + (1|Subject), 
                 data=full_data)
@@ -16,7 +21,7 @@ mean_f0_lme <- lmer(Mean.f0 ~ Role + (1|Subject),
 summary(mean_f0_lme)
 
 int_lme <- lmer(Intensity ~ Role + (1|Subject), 
-                data=inital_subj_vs_initial_nonsubj)
+                data=full_data)
 summary(int_lme)
 
 # Generate plots

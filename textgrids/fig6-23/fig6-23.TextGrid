@@ -11,7 +11,7 @@ item []:
         name = "Tones" 
         xmin = 0 
         xmax = 3.3695543451005 
-        points: size = 11 
+        points: size = 10 
         points [1]:
             number = 0.11011615506864203 
             mark = "L" 
@@ -40,9 +40,6 @@ item []:
             number = 2.909035206338702 
             mark = "H" 
         points [10]:
-            number = 3.0486444074718797 
-            mark = "L" 
-        points [11]:
             number = 3.2588563527940995 
             mark = "L%" 
     item [2]:
@@ -54,15 +51,15 @@ item []:
         intervals [1]:
             xmin = 0 
             xmax = 0.5977734132297812 
-            text = "meryem" 
+            text = "MERyem" 
         intervals [2]:
             xmin = 0.5977734132297812 
             xmax = 1.1200386058410636 
-            text = "ramni" 
+            text = "RAMni" 
         intervals [3]:
             xmin = 1.1200386058410636 
             xmax = 1.4409485434696805 
-            text = "urup" 
+            text = "URup" 
         intervals [4]:
             xmin = 1.4409485434696805 
             xmax = 1.7555661293800924 
@@ -70,11 +67,11 @@ item []:
         intervals [5]:
             xmin = 1.7555661293800924 
             xmax = 2.1834460462182506 
-            text = "onglap" 
+            text = "ONGlap" 
         intervals [6]:
             xmin = 2.1834460462182506 
             xmax = 2.510648335565076 
-            text = "bolup" 
+            text = "BOlup" 
         intervals [7]:
             xmin = 2.510648335565076 
             xmax = 2.784365635307136 
@@ -86,7 +83,7 @@ item []:
         intervals [9]:
             xmin = 3.0140364730217364 
             xmax = 3.3695543451005 
-            text = "aldi" 
+            text = "ALdi" 
     item [3]:
         class = "IntervalTier" 
         name = "Gloss" 

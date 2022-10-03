@@ -39,19 +39,19 @@ item []:
         intervals [1]:
             xmin = 0 
             xmax = 0.47046145266189177 
-            text = "mahire" 
+            text = "MAhire" 
         intervals [2]:
             xmin = 0.47046145266189177 
             xmax = 0.9759572688198818 
-            text = "alimgha" 
+            text = "Alimgha" 
         intervals [3]:
             xmin = 0.9759572688198818 
             xmax = 1.2962714493556378 
-            text = "alma" 
+            text = "ALma" 
         intervals [4]:
             xmin = 1.2962714493556378 
             xmax = 1.9218850832145362 
-            text = "ewetti" 
+            text = "eWETti" 
     item [3]:
         class = "IntervalTier" 
         name = "Gloss" 

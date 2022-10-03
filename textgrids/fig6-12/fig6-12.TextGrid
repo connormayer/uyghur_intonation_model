@@ -42,15 +42,15 @@ item []:
         intervals [1]:
             xmin = 0 
             xmax = 0.5137879374668137 
-            text = "adil" 
+            text = "Adil" 
         intervals [2]:
             xmin = 0.5137879374668137 
             xmax = 1.1515936529428585 
-            text = "bughday-ni" 
+            text = "bughDAY-ni" 
         intervals [3]:
             xmin = 1.1515936529428585 
             xmax = 1.7834937599422727 
-            text = "baghlidi" 
+            text = "BAGHlidi" 
     item [3]:
         class = "IntervalTier" 
         name = "Gloss" 

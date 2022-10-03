@@ -36,11 +36,11 @@ item []:
         intervals [1]:
             xmin = 0 
             xmax = 0.32957878004765473 
-            text = "qurban" 
+            text = "qurBAN" 
         intervals [2]:
             xmin = 0.32957878004765473 
             xmax = 0.7977496624743232 
-            text = "mangidu" 
+            text = "MAngidu" 
     item [3]:
         class = "IntervalTier" 
         name = "Glosses" 
