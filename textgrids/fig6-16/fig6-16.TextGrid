@@ -11,44 +11,47 @@ item []:
         name = "Tones" 
         xmin = 0 
         xmax = 3.9773192736745555 
-        points: size = 13 
+        points: size = 14 
         points [1]:
-            number = 0.3707768290392135 
-            mark = "HL%" 
+            number = 0.18911353823004806 
+            mark = "H" 
         points [2]:
+            number = 0.3707768290392135 
+            mark = "L%" 
+        points [3]:
             number = 0.7843711460845508 
             mark = "L" 
-        points [3]:
+        points [4]:
             number = 0.9866422573827335 
             mark = "Ha" 
-        points [4]:
+        points [5]:
             number = 1.2509055357116923 
             mark = "L" 
-        points [5]:
+        points [6]:
             number = 1.5850897438843248 
             mark = "Ha" 
-        points [6]:
+        points [7]:
             number = 1.7670712433842732 
             mark = "L" 
-        points [7]:
+        points [8]:
             number = 2.1575042786750718 
             mark = "H-" 
-        points [8]:
+        points [9]:
             number = 2.3725733235386466 
             mark = "L" 
-        points [9]:
+        points [10]:
             number = 2.782858886047621 
             mark = "H-" 
-        points [10]:
+        points [11]:
             number = 3.0641030216384504 
             mark = "L" 
-        points [11]:
+        points [12]:
             number = 3.3883609662019945 
             mark = "Ha" 
-        points [12]:
+        points [13]:
             number = 3.586886238383757 
             mark = "L" 
-        points [13]:
+        points [14]:
             number = 3.9210704465563895 
             mark = "L%" 
     item [2]:
